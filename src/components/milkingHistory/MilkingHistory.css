@@ -1,0 +1,25 @@
+.history-page {
+  text-align: center;
+  padding: 20px;
+}
+
+.history-table-container {
+  overflow-x: auto; /* Enable horizontal scrolling */
+  margin-top: 20px;
+}
+
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.history-table th,
+.history-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.history-table th {
+  background-color: #007bff;
+  color: #fff;
+}

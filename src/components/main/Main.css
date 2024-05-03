@@ -1,0 +1,37 @@
+.main-page {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.start-button,
+.stop-button {
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.stop-button {
+  background-color: #dc3545; /* Red color for stop button */
+}
+
+.history-link {
+  font-size: 16px;
+  color: #007bff;
+  text-decoration: none;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
